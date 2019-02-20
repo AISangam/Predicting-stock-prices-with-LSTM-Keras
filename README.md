@@ -14,6 +14,7 @@
   <li> Plotting the comparison between model predicted output and actual output. Please see the graph attached with this repository. </li>
   </ol>
 ## Training phase  
+
 ![training phase](https://user-images.githubusercontent.com/35392729/53113897-a1dd0c00-3568-11e9-9097-5a9174def801.png)  
 
 ## How to run this code  
