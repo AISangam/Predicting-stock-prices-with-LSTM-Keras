@@ -12,4 +12,27 @@
   <li> Fitting the model for training using the appropriate loss function and optimizer. </li>
   <li> Predicting the model with the testing data. </li>
   <li> Plotting the comparison between model predicted output and actual output. Please see the graph attached with this repository. </li>
+  </ol>
+## Training phase  
+![training phase](https://user-images.githubusercontent.com/35392729/53113897-a1dd0c00-3568-11e9-9097-5a9174def801.png)  
+
+## How to run this code  
+
+Please download this repository by using
+
+```
+git clone git@github.com:AISangam/Predicting-stock-prices-with-LSTM-Keras.git
+
+```
+When the repository is cloned please run the following file
+
+```
+python/python3 real_time_stocks.py
+
+```
+
+
+
+  
+  
   
